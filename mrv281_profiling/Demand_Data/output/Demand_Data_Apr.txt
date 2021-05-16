@@ -1,0 +1,13 @@
+1	,accessories,563499,4929
+1	,apparel,5938558,66175
+1	,appliances,13095901,165586
+1	,auto,290825,2434
+1	,computers,1726026,16271
+1	,construction,16268890,389079
+1	,country_yard,283898,3845
+1	,electronics,6680540,77290
+1	,furniture,2754248,34741
+1	,kids,1568090,17014
+1	,medicine,28109,167
+1	,sport,2997555,45069
+1	,stationery,29820,324
